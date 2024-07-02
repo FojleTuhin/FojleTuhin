@@ -5,6 +5,11 @@
 <h1 align="center">Hi 👋, I'm Fojle Rabbi Tuhin</h1>
 <h3 align="center">A passionate react developer from Bangladesh</h3>
 
+<p>Enthusiastic fresher react developer with a solid understanding of react frame work. Proven ability to
+learn quickly and adapt to new technologies. Adept to collaborating with cross-fictional teams to deliver
+high quality scalable web applications. Eager to apply and expand my skills in a collaborative team
+environment.</p>
+
 
 - 🌱 I’m currently learning **Next js**
 
