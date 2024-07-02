@@ -10,6 +10,10 @@ learn quickly and adapt to new technologies. Adept to collaborating with cross-f
 high quality scalable web applications. Eager to apply and expand my skills in a collaborative team
 environment.</p>
 
+<p></p>
+<p></p>
+<p></p>
+
 
 - 🌱 I’m currently learning **Next js**
 
