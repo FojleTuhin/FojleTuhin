@@ -1,9 +1,8 @@
-### Hi there 👋, my name is Tuhin
-#### I am a Junior Frontend Developer
-![I am a Junior Frontend Developer](https://i.ibb.co/ykVB403/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Fojle Rabbi Tuhin</h1>
 <h3 align="center">A passionate react developer from Bangladesh</h3>
+![I am a Junior Frontend Developer](https://i.ibb.co/ykVB403/banner.jpg)
+
 
 - 🌱 I’m currently learning **Next js**
 
