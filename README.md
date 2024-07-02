@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👯 I’m looking to collaborate on **Learning Opportunities**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 🤝 I’m looking for help with **Improving Coding Skills**
 
