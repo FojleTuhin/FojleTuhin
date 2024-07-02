@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Fojle Rabbi Tuhin</h1>
 <h3 align="center">A passionate react developer from Bangladesh</h3>
-![I am a Junior Frontend Developer](https://i.ibb.co/ykVB403/banner.jpg)
+<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 
 
 - 🌱 I’m currently learning **Next js**
