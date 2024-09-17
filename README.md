@@ -15,7 +15,7 @@ environment.</p>
 
 
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next Js.**
 
 - 👯 I’m looking to collaborate on **Full Stack Application**
 
