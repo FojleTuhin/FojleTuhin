@@ -25,7 +25,7 @@ environment.</p>
 
 - 📫 How to reach me **fojletuhin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Snce4XmzAYVc_fzoYX91SNH4xVNPZdi/view?usp=sharing](https://drive.google.com/file/d/11Snce4XmzAYVc_fzoYX91SNH4xVNPZdi/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11Snce4XmzAYVc_fzoYX91SNH4xVNPZdi/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play cricket, traveling and cycling**
 
