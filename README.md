@@ -3,9 +3,9 @@
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 
 <h1 align="center">Hi 👋, I'm Fojle Rabbi Tuhin</h1>
-<h3 align="center">A passionate react developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-<p>Enthusiastic fresher react developer with a solid understanding of react frame work. Proven ability to
+<p>Enthusiastic fresher MERN Stack developer with a solid understanding of react frame work. Proven ability to
 learn quickly and adapt to new technologies. Adept to collaborating with cross-fictional teams to deliver
 high quality scalable web applications. Eager to apply and expand my skills in a collaborative team
 environment.</p>
@@ -25,7 +25,7 @@ environment.</p>
 
 - 📫 How to reach me **fojletuhin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LXJKGvfi4FzZiMiVrpn3wXI3TWFUQGXN/view?usp=sharing](https://drive.google.com/file/d/1LXJKGvfi4FzZiMiVrpn3wXI3TWFUQGXN/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11Snce4XmzAYVc_fzoYX91SNH4xVNPZdi/view?usp=sharing](Resume)
 
 - ⚡ Fun fact **I love to play cricket, traveling and cycling**
 
